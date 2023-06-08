@@ -2,7 +2,7 @@
 - 👀 I’m interested in the analysis of space data
 - 🌱 I’m currently studying Computer Science and Engineering at Politecnico di Milano
 - 💞️ I’m looking to collaborate on science missions
-- 🚀 Currently member of the Solar Orbiter Cosmic Rays Topical Team
+- 🚀 Currently working at the European Space Agency (ESA)
 - 📫 How to reach me: email - andrea.persici@mail.polimi.it
 
 <!---
