@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @apersici
-- 👀 I’m interested in the analysis of space data
-- 🌱 I’m currently studying Computer Science and Engineering at Politecnico di Milano
-- 💞️ I’m looking to collaborate on science missions
-- 🚀 Currently working at the European Space Agency (ESA)
+- 👀 I am interested in the analysis of space data
+- 💻 I have a M.Sc. in Computer Science and Engineering from Politecnico di Milano
+- 🌱 Currently a Marie Curie Early Stage Researcher
+- 💞️ I have been involved in several space science missions
+- 🚀 Previous research trainee at the European Space Agency (ESA)
 - 📫 How to reach me: email - andrea.persici@mail.polimi.it
 
 <!---
